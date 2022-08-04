@@ -1,4 +1,4 @@
-```
+
 /*****************************************************
 This program was produced by the
 CodeWizardAVR V2.04.4a Advanced
@@ -397,4 +397,3 @@ while (1)
 //          }
       };
 }
-```
