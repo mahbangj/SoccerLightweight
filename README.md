@@ -19,4 +19,7 @@
 <br> ![sharp](https://user-images.githubusercontent.com/47887796/182779741-d530da9e-2bfc-436a-8479-fc778dfd303c.PNG)
 
 - For power supply, a lithium polymer battery with 1300mA current was used.
-<br> ![litium polymer](https://user-images.githubusercontent.com/47887796/182779848-a7caf3c3-cdbe-4f63-8649-cdf1e98a20a9.PNG)
+<div align = "center"> 
+  <img src = "https://user-images.githubusercontent.com/47887796/182779848-a7caf3c3-cdbe-4f63-8649-cdf1e98a20a9.PNG" width = "600"> 
+<br><br><br>
+</div>
