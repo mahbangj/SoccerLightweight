@@ -9,7 +9,10 @@
 <br> ![Capture](https://user-images.githubusercontent.com/47887796/182779153-7d3b3285-2ff8-412d-b2f8-2c189008563d.PNG)
 
 - We used 16 TSOP sensors to follow the ball, but for selecting one of the sensors to send data, a multiplexer was used.
-<br> ![Capture2](https://user-images.githubusercontent.com/47887796/182779443-c608cc72-eb36-4350-96ce-a0203be9180f.PNG)
+<div align = "center"> 
+  <img src = "https://user-images.githubusercontent.com/47887796/182779443-c608cc72-eb36-4350-96ce-a0203be9180f.PNG" width = "600"> 
+<br><br><br>
+</div>
 <div align = "center"> 
   <img src = "https://user-images.githubusercontent.com/47887796/182779458-279f45c6-5bd2-4667-b36d-b05dc7d2aaa5.PNG" width = "600"> 
 <br><br><br>
@@ -21,7 +24,7 @@
 </div>
 - For distance measurement we used 3 sharp sensors(GP2Y0A02YK)
 <div align = "center"> 
-  <img src = "https://user-images.githubusercontent.com/47887796/184085312-40bbf444-90d2-4819-aa04-accc509b46d9.PNG" width = "400"> 
+  <img src = "https://user-images.githubusercontent.com/47887796/184085312-40bbf444-90d2-4819-aa04-accc509b46d9.PNG" width = "600"> 
 <br><br><br>
 </div>
 - For power supply, a lithium polymer battery with 1300mA current was used.
