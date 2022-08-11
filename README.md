@@ -13,11 +13,15 @@
 <br> ![ATmega16_multiplexer](https://user-images.githubusercontent.com/47887796/182779458-279f45c6-5bd2-4667-b36d-b05dc7d2aaa5.PNG)
 
 - For the robot to know where the goal is, a compass was used.
-<br> ![compass](https://user-images.githubusercontent.com/47887796/182779602-10d09c6a-c0c1-4df6-87c2-ae90a88d916c.PNG)
-
+<div align = "center"> 
+  <img src = "https://user-images.githubusercontent.com/47887796/182779602-10d09c6a-c0c1-4df6-87c2-ae90a88d916c.PNG" width = "600"> 
+<br><br><br>
+</div>
 - For distance measurement we used 3 sharp sensors(GP2Y0A02YK)
-<br> ![sharp](https://user-images.githubusercontent.com/47887796/182779741-d530da9e-2bfc-436a-8479-fc778dfd303c.PNG)
-
+<div align = "center"> 
+  <img src = "https://user-images.githubusercontent.com/47887796/182779848-a7caf3c3-cdbe-4f63-8649-cdf1e98a20a9.PNG" width = "600"> 
+<br><br><br>
+</div>
 - For power supply, a lithium polymer battery with 1300mA current was used.
 <div align = "center"> 
   <img src = "https://user-images.githubusercontent.com/47887796/182779848-a7caf3c3-cdbe-4f63-8649-cdf1e98a20a9.PNG" width = "300"> 
